@@ -54,9 +54,11 @@ Here are a few highlights:
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshitJain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harshit-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile-here)
-[![GitHub](https://img.shields.io/badge/GitHub-HarshitJain-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+
+[![GitHub](https://img.shields.io/badge/GitHub-harshit25jain-181717?style=for-the-badge&logo=github)](https://github.com/harshit25jain)
+[![LeetCode](https://img.shields.io/badge/LeetCode-25_08_2004-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/25_08_2004/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitjain2508-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitjain2508)
+
 
 ---
 
