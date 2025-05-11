@@ -46,36 +46,19 @@
 
 Here are a few highlights:
 
-- ✨ **RidExpress** – A full-fledged Uber Clone built using MERN stack
-- 🏡 **Wanderlust** – An Airbnb-inspired travel accommodation platform
+- ✨ **RidExpress** – A full-fledged Uber Clone built using MERN stack  
+- 🏡 **Wanderlust** – An Airbnb-inspired travel accommodation platform  
 - 📊 More cool projects coming soon...
 
 ---
 
 ## 📫 Let's Connect!
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-harshit25jain-181717?style=for-the-badge&logo=github)](https://github.com/harshit25jain)
 [![LeetCode](https://img.shields.io/badge/LeetCode-25_08_2004-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/25_08_2004/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitjain2508-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitjain2508)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitjain2508-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitjain2508/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-harshitjarcnq-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshitjarcnq/)
 
 ---
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-
-
-<!--
-**harshit25jain/harshit25jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
