@@ -34,11 +34,11 @@
 
 ## 📌 Featured Skills
 
-- ✅ **Deep understanding of DSA** (Arrays, Linked Lists, Trees, Graphs, DP, etc.)
-- ✅ **Object-Oriented Programming (OOPs)**
-- ✅ **Database Design & Management (MongoDB, SQL)**
-- ✅ **Building full-stack applications with MERN**
-- ✅ **RESTful APIs & Backend Logic**
+-  **Deep understanding of DSA** (Arrays, Strings, Linked Lists, Stacks & Queues etc.)
+-  **Object-Oriented Programming (OOPs)**
+-  **Database Design & Management (MongoDB, SQL)**
+-  **Building full-stack applications with MERN**
+-  **RESTful APIs & Backend Logic**
 
 ---
 
@@ -46,8 +46,8 @@
 
 Here are a few highlights:
 
-- ✨ **RidExpress** – A full-fledged Uber Clone built using MERN stack  
-- 🏡 **Wanderlust** – An Airbnb-inspired travel accommodation platform  
+- ✨ **RideExpress** – A full-fledged Uber Clone built using MERN stack  
+- 🏡 **AI-Assistant** – A MERN based AI Chatbot using API key  
 - 📊 More cool projects coming soon...
 
 ---
