@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently exploring advanced **DSA**, **System Design**, and **Backend Architecture**
+- 🔭 Currently strengthening core **DSA** and **Backend Architecture**
 - 🌱 Actively building real-world projects using the **MERN Stack**
-- 📚 Love solving complex problems and diving deep into the world of **OOPs**, **DBMS**, and **Web Development**
+- 📚 Love solving complex problems and diving deep into the world of **OOP**, **DBMS**, and **Web Development**
 - ⚡ Fun fact: I enjoy turning coffee into code ☕💻
 
 ---
