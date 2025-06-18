@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harshit Jain!
 
-🎓 A passionate **B.Tech CSE** student in my 3rd year  
+🎓 A passionate **B.Tech CSE** student in my final year  
 🚀 Aspiring software developer focused on building scalable and efficient solutions  
 💡 Strong emphasis on **Data Structures and Algorithms (DSA)**  
 
